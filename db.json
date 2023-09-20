@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "sdf",
+      "image": "sadf",
+      "price": "-0.04",
+      "id": 8
     }
   ]
 }
